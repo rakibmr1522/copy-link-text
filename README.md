@@ -13,14 +13,14 @@ Copy Link Text Extension is a simple Chrome extension that lets you copy the tex
 
 ## Installing Locally on Chrome
 
-You can use this extension locally without installing it from the Chrome Web Store.
+You can run this extension locally without installing it from the Chrome Web Store.
 
-1. **Download the code:** Open this repository on GitHub, click the green **Code** button, and select **Download ZIP**.
-2. **Extract the ZIP file:** Find the downloaded ZIP file on your computer, right-click it, and choose **Extract All**.
-3. **Open Chrome Extensions:** In Google Chrome, go to [chrome://extensions/](chrome://extensions/).
-4. **Enable Developer mode:** Turn on the **Developer mode** switch, usually near the top-right corner.
-5. **Load the extension:** Click **Load unpacked** and select the extracted extension folder — the folder that contains `manifest.json`. Do not select the ZIP file itself.
-6. **That's it!** The extension should now be installed locally in Chrome.
+1. **Download the code.** On GitHub, click the green **Code** button, then select **Download ZIP**.
+2. **Extract the ZIP file.** Right-click the downloaded ZIP file and choose **Extract All**.
+3. **Open Chrome Extensions.** Go to [chrome://extensions/](https://chrome.google.com/webstore/category/extensions) in Google Chrome.
+4. **Enable Developer mode.** Turn on the **Developer mode** switch, usually near the top-right corner.
+5. **Load the extension.** Click **Load unpacked** and select the extracted folder that contains `manifest.json`. Make sure you select the folder, not the ZIP file.
+6. **That's it!** The extension is now ready to use locally in Chrome.
 
 ## How to Use
 
