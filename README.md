@@ -2,26 +2,29 @@
 
 ![Copy Link Text Extension](icons/icon128.png)
 
-Copy Link Text Extension is a simple Chrome extension that lets you copy the text of a link without copying its URL.
+A simple Chrome extension that lets you copy the text of a link instead of its URL.
 
 ## Features
 
 - Copy link text from the right-click menu.
 - Simple and easy to use.
-- Helps avoid copying unnecessary URLs.
 - Lightweight and convenient.
 
-## Installing locally on Chrome
+## Installing Locally on Chrome
 
-You can run the extension locally without having to install it from the Chrome Store.
+You can use this extension locally without installing it from the Chrome Web Store.
 
-1. Download the code. In the web version of GitHub, click the green "Code" button, then click "Download ZIP".
+1. **Download the extension:** [Download ZIP](https://github.com/rakibmr1522/copy-link-text-extension/archive/refs/heads/main.zip).
 
-2. Go to chrome://extensions/ in your browser, and enable developer mode.
+2. **Extract the ZIP file:** Open the downloaded ZIP file and extract it to a folder.
 
-3. Click the "Load unpacked" button and select the extracted main folder containing manifest.json (make sure it is a folder, not a ZIP file).
+3. **Open Chrome Extensions:** In Chrome, type `chrome://extensions/` in the address bar and press Enter.
 
-4. That's it, you can now use the extension locally.
+4. **Enable Developer mode:** Turn on **Developer mode**. See [Chrome's official instructions](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world/#load-unpacked) if needed.
+
+5. **Load the extension:** Click **Load unpacked** and select the extracted folder that contains `manifest.json`. Select the folder, not the ZIP file.
+
+6. **That's it!** The extension is ready to use.
 
 ## How to Use
 
@@ -32,7 +35,7 @@ You can run the extension locally without having to install it from the Chrome S
 
 ## Privacy
 
-The extension is designed to work locally in your browser and does not intentionally collect or send browsing data to an external server.
+The extension works locally in your browser and is not designed to collect or send browsing data to an external server.
 
 ---
 
